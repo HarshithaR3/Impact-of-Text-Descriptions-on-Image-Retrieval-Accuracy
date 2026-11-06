@@ -1,0 +1,1 @@
+# Impact-of-Text-Descriptions-on-Image-Retrieval-Accuracy
